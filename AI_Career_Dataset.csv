@@ -1,0 +1,76 @@
+Career,Skills_Required,Interests,Education,Industry,Salary_Range,Future_Demand,Work_Mode,Growth_Score,AI_Impact,Growth_Path,Description
+Data Scientist,"Python, SQL, Machine Learning, Statistics",Analytics,B.Tech/BSc Data Science,IT,8-20 LPA,High,Hybrid,9,Low,Senior Data Scientist -> Lead -> AI Director,Analyze data and build predictive models
+AI Engineer,"Python, Deep Learning, NLP, TensorFlow",AI,B.Tech CSE,IT,10-30 LPA,Very High,Hybrid,10,Low,AI Engineer -> AI Architect,Build AI systems
+ML Engineer,"Python, ML, MLOps",AI,B.Tech,IT,8-25 LPA,Very High,Hybrid,10,Low,ML Engineer -> ML Lead,Deploy ML models
+Data Analyst,"Excel, SQL, Power BI",Analytics,Any Graduate,IT,4-12 LPA,High,Hybrid,8,Medium,Analyst -> Senior Analyst,Analyze business data
+Business Analyst,"SQL, Communication, Analytics",Business,MBA/B.Tech,Consulting,6-18 LPA,High,Hybrid,8,Medium,BA -> Product Analyst,Bridge business and tech
+Cyber Security Analyst,"Networking, Linux, Security",Security,B.Tech,Cyber Security,5-20 LPA,High,Hybrid,8,Medium,Cyber Security Analyst -> Senior -> Manager,Career in Cyber Security domain
+Cloud Engineer,"AWS, Azure, Linux",Cloud,B.Tech,Cloud,5-20 LPA,High,Hybrid,8,Medium,Cloud Engineer -> Senior -> Manager,Career in Cloud domain
+DevOps Engineer,"Docker, Kubernetes, CI/CD",Infrastructure,B.Tech,IT,5-20 LPA,High,Hybrid,8,Medium,DevOps Engineer -> Senior -> Manager,Career in IT domain
+Software Developer,"Java, Python, DSA",Programming,B.Tech,IT,5-20 LPA,High,Hybrid,8,Medium,Software Developer -> Senior -> Manager,Career in IT domain
+Frontend Developer,"HTML, CSS, JavaScript, React",Web,B.Tech,IT,5-20 LPA,High,Hybrid,8,Medium,Frontend Developer -> Senior -> Manager,Career in IT domain
+Backend Developer,"Python, NodeJS, APIs",Web,B.Tech,IT,5-20 LPA,High,Hybrid,8,Medium,Backend Developer -> Senior -> Manager,Career in IT domain
+Full Stack Developer,"React, NodeJS, SQL",Web,B.Tech,IT,5-20 LPA,High,Hybrid,8,Medium,Full Stack Developer -> Senior -> Manager,Career in IT domain
+UI UX Designer,"Figma, Prototyping",Design,Any Graduate,Design,5-20 LPA,High,Hybrid,8,Medium,UI UX Designer -> Senior -> Manager,Career in Design domain
+Product Manager,"Strategy, Analytics",Management,MBA,Product,5-20 LPA,High,Hybrid,8,Medium,Product Manager -> Senior -> Manager,Career in Product domain
+Blockchain Developer,"Solidity, Ethereum",Blockchain,B.Tech,IT,5-20 LPA,High,Hybrid,8,Medium,Blockchain Developer -> Senior -> Manager,Career in IT domain
+IoT Engineer,"Embedded Systems, Sensors",IoT,B.Tech,Engineering,5-20 LPA,High,Hybrid,8,Medium,IoT Engineer -> Senior -> Manager,Career in Engineering domain
+Robotics Engineer,"Robotics, Python",Robotics,B.Tech,Engineering,5-20 LPA,High,Hybrid,8,Medium,Robotics Engineer -> Senior -> Manager,Career in Engineering domain
+Game Developer,"Unity, C#",Gaming,B.Tech,Gaming,5-20 LPA,High,Hybrid,8,Medium,Game Developer -> Senior -> Manager,Career in Gaming domain
+Mobile App Developer,"Flutter, Android",Apps,B.Tech,IT,5-20 LPA,High,Hybrid,8,Medium,Mobile App Developer -> Senior -> Manager,Career in IT domain
+Database Administrator,"SQL, Database",Data,B.Tech,IT,5-20 LPA,High,Hybrid,8,Medium,Database Administrator -> Senior -> Manager,Career in IT domain
+Network Engineer,"Networking, Cisco",Networks,B.Tech,IT,5-20 LPA,High,Hybrid,8,Medium,Network Engineer -> Senior -> Manager,Career in IT domain
+Digital Marketing Specialist,"SEO, Marketing",Marketing,Any Graduate,Marketing,5-20 LPA,High,Hybrid,8,Medium,Digital Marketing Specialist -> Senior -> Manager,Career in Marketing domain
+Financial Analyst,"Finance, Excel",Finance,B.Com/MBA,Finance,5-20 LPA,High,Hybrid,8,Medium,Financial Analyst -> Senior -> Manager,Career in Finance domain
+Investment Banker,"Finance, Valuation",Finance,MBA,Finance,5-20 LPA,High,Hybrid,8,Medium,Investment Banker -> Senior -> Manager,Career in Finance domain
+HR Analyst,"HR Analytics, Excel",HR,MBA,HR,5-20 LPA,High,Hybrid,8,Medium,HR Analyst -> Senior -> Manager,Career in HR domain
+Healthcare Data Analyst,"Healthcare, SQL",Healthcare,BSc/MTech,Healthcare,5-20 LPA,High,Hybrid,8,Medium,Healthcare Data Analyst -> Senior -> Manager,Career in Healthcare domain
+Bioinformatics Scientist,"Biology, Python",Research,MSc,Healthcare,5-20 LPA,High,Hybrid,8,Medium,Bioinformatics Scientist -> Senior -> Manager,Career in Healthcare domain
+Research Scientist,"Research, Statistics",Research,Masters/PhD,Research,5-20 LPA,High,Hybrid,8,Medium,Research Scientist -> Senior -> Manager,Career in Research domain
+Teacher,"Teaching, Communication",Education,B.Ed,Education,5-20 LPA,High,Hybrid,8,Medium,Teacher -> Senior -> Manager,Career in Education domain
+Professor,"Research, Teaching",Education,PhD,Education,5-20 LPA,High,Hybrid,8,Medium,Professor -> Senior -> Manager,Career in Education domain
+Lawyer,Legal Research,Law,LLB,Legal,5-20 LPA,High,Hybrid,8,Medium,Lawyer -> Senior -> Manager,Career in Legal domain
+Architect,"AutoCAD, Design",Architecture,B.Arch,Construction,5-20 LPA,High,Hybrid,8,Medium,Architect -> Senior -> Manager,Career in Construction domain
+Civil Engineer,"Construction, AutoCAD",Engineering,B.Tech,Construction,5-20 LPA,High,Hybrid,8,Medium,Civil Engineer -> Senior -> Manager,Career in Construction domain
+Mechanical Engineer,"CAD, Manufacturing",Engineering,B.Tech,Manufacturing,5-20 LPA,High,Hybrid,8,Medium,Mechanical Engineer -> Senior -> Manager,Career in Manufacturing domain
+Electrical Engineer,"Circuits, Power Systems",Engineering,B.Tech,Energy,5-20 LPA,High,Hybrid,8,Medium,Electrical Engineer -> Senior -> Manager,Career in Energy domain
+Renewable Energy Engineer,"Solar, Energy",Energy,B.Tech,Energy,5-20 LPA,High,Hybrid,8,Medium,Renewable Energy Engineer -> Senior -> Manager,Career in Energy domain
+Supply Chain Analyst,"Logistics, Analytics",Operations,MBA,Logistics,5-20 LPA,High,Hybrid,8,Medium,Supply Chain Analyst -> Senior -> Manager,Career in Logistics domain
+Operations Manager,"Management, Planning",Operations,MBA,Operations,5-20 LPA,High,Hybrid,8,Medium,Operations Manager -> Senior -> Manager,Career in Operations domain
+Quality Analyst,"Testing, QA",Quality,B.Tech,IT,5-20 LPA,High,Hybrid,8,Medium,Quality Analyst -> Senior -> Manager,Career in IT domain
+Software Tester,"Manual Testing, Selenium",Testing,B.Tech,IT,5-20 LPA,High,Hybrid,8,Medium,Software Tester -> Senior -> Manager,Career in IT domain
+Cyber Security Analyst,"Networking, Linux, Security",Security,B.Tech,Cyber Security,5-20 LPA,High,Hybrid,8,Medium,Cyber Security Analyst -> Senior -> Manager,Career in Cyber Security domain
+Cloud Engineer,"AWS, Azure, Linux",Cloud,B.Tech,Cloud,5-20 LPA,High,Hybrid,8,Medium,Cloud Engineer -> Senior -> Manager,Career in Cloud domain
+DevOps Engineer,"Docker, Kubernetes, CI/CD",Infrastructure,B.Tech,IT,5-20 LPA,High,Hybrid,8,Medium,DevOps Engineer -> Senior -> Manager,Career in IT domain
+Software Developer,"Java, Python, DSA",Programming,B.Tech,IT,5-20 LPA,High,Hybrid,8,Medium,Software Developer -> Senior -> Manager,Career in IT domain
+Frontend Developer,"HTML, CSS, JavaScript, React",Web,B.Tech,IT,5-20 LPA,High,Hybrid,8,Medium,Frontend Developer -> Senior -> Manager,Career in IT domain
+Backend Developer,"Python, NodeJS, APIs",Web,B.Tech,IT,5-20 LPA,High,Hybrid,8,Medium,Backend Developer -> Senior -> Manager,Career in IT domain
+Full Stack Developer,"React, NodeJS, SQL",Web,B.Tech,IT,5-20 LPA,High,Hybrid,8,Medium,Full Stack Developer -> Senior -> Manager,Career in IT domain
+UI UX Designer,"Figma, Prototyping",Design,Any Graduate,Design,5-20 LPA,High,Hybrid,8,Medium,UI UX Designer -> Senior -> Manager,Career in Design domain
+Product Manager,"Strategy, Analytics",Management,MBA,Product,5-20 LPA,High,Hybrid,8,Medium,Product Manager -> Senior -> Manager,Career in Product domain
+Blockchain Developer,"Solidity, Ethereum",Blockchain,B.Tech,IT,5-20 LPA,High,Hybrid,8,Medium,Blockchain Developer -> Senior -> Manager,Career in IT domain
+IoT Engineer,"Embedded Systems, Sensors",IoT,B.Tech,Engineering,5-20 LPA,High,Hybrid,8,Medium,IoT Engineer -> Senior -> Manager,Career in Engineering domain
+Robotics Engineer,"Robotics, Python",Robotics,B.Tech,Engineering,5-20 LPA,High,Hybrid,8,Medium,Robotics Engineer -> Senior -> Manager,Career in Engineering domain
+Game Developer,"Unity, C#",Gaming,B.Tech,Gaming,5-20 LPA,High,Hybrid,8,Medium,Game Developer -> Senior -> Manager,Career in Gaming domain
+Mobile App Developer,"Flutter, Android",Apps,B.Tech,IT,5-20 LPA,High,Hybrid,8,Medium,Mobile App Developer -> Senior -> Manager,Career in IT domain
+Database Administrator,"SQL, Database",Data,B.Tech,IT,5-20 LPA,High,Hybrid,8,Medium,Database Administrator -> Senior -> Manager,Career in IT domain
+Network Engineer,"Networking, Cisco",Networks,B.Tech,IT,5-20 LPA,High,Hybrid,8,Medium,Network Engineer -> Senior -> Manager,Career in IT domain
+Digital Marketing Specialist,"SEO, Marketing",Marketing,Any Graduate,Marketing,5-20 LPA,High,Hybrid,8,Medium,Digital Marketing Specialist -> Senior -> Manager,Career in Marketing domain
+Financial Analyst,"Finance, Excel",Finance,B.Com/MBA,Finance,5-20 LPA,High,Hybrid,8,Medium,Financial Analyst -> Senior -> Manager,Career in Finance domain
+Investment Banker,"Finance, Valuation",Finance,MBA,Finance,5-20 LPA,High,Hybrid,8,Medium,Investment Banker -> Senior -> Manager,Career in Finance domain
+HR Analyst,"HR Analytics, Excel",HR,MBA,HR,5-20 LPA,High,Hybrid,8,Medium,HR Analyst -> Senior -> Manager,Career in HR domain
+Healthcare Data Analyst,"Healthcare, SQL",Healthcare,BSc/MTech,Healthcare,5-20 LPA,High,Hybrid,8,Medium,Healthcare Data Analyst -> Senior -> Manager,Career in Healthcare domain
+Bioinformatics Scientist,"Biology, Python",Research,MSc,Healthcare,5-20 LPA,High,Hybrid,8,Medium,Bioinformatics Scientist -> Senior -> Manager,Career in Healthcare domain
+Research Scientist,"Research, Statistics",Research,Masters/PhD,Research,5-20 LPA,High,Hybrid,8,Medium,Research Scientist -> Senior -> Manager,Career in Research domain
+Teacher,"Teaching, Communication",Education,B.Ed,Education,5-20 LPA,High,Hybrid,8,Medium,Teacher -> Senior -> Manager,Career in Education domain
+Professor,"Research, Teaching",Education,PhD,Education,5-20 LPA,High,Hybrid,8,Medium,Professor -> Senior -> Manager,Career in Education domain
+Lawyer,Legal Research,Law,LLB,Legal,5-20 LPA,High,Hybrid,8,Medium,Lawyer -> Senior -> Manager,Career in Legal domain
+Architect,"AutoCAD, Design",Architecture,B.Arch,Construction,5-20 LPA,High,Hybrid,8,Medium,Architect -> Senior -> Manager,Career in Construction domain
+Civil Engineer,"Construction, AutoCAD",Engineering,B.Tech,Construction,5-20 LPA,High,Hybrid,8,Medium,Civil Engineer -> Senior -> Manager,Career in Construction domain
+Mechanical Engineer,"CAD, Manufacturing",Engineering,B.Tech,Manufacturing,5-20 LPA,High,Hybrid,8,Medium,Mechanical Engineer -> Senior -> Manager,Career in Manufacturing domain
+Electrical Engineer,"Circuits, Power Systems",Engineering,B.Tech,Energy,5-20 LPA,High,Hybrid,8,Medium,Electrical Engineer -> Senior -> Manager,Career in Energy domain
+Renewable Energy Engineer,"Solar, Energy",Energy,B.Tech,Energy,5-20 LPA,High,Hybrid,8,Medium,Renewable Energy Engineer -> Senior -> Manager,Career in Energy domain
+Supply Chain Analyst,"Logistics, Analytics",Operations,MBA,Logistics,5-20 LPA,High,Hybrid,8,Medium,Supply Chain Analyst -> Senior -> Manager,Career in Logistics domain
+Operations Manager,"Management, Planning",Operations,MBA,Operations,5-20 LPA,High,Hybrid,8,Medium,Operations Manager -> Senior -> Manager,Career in Operations domain
+Quality Analyst,"Testing, QA",Quality,B.Tech,IT,5-20 LPA,High,Hybrid,8,Medium,Quality Analyst -> Senior -> Manager,Career in IT domain
+Software Tester,"Manual Testing, Selenium",Testing,B.Tech,IT,5-20 LPA,High,Hybrid,8,Medium,Software Tester -> Senior -> Manager,Career in IT domain
